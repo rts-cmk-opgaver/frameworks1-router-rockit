@@ -6,7 +6,7 @@
 
 ### **Opgavebeskrivelse**
 - Brug Vite til at installere en react applikation.
-  (BENSPÆND: Mappen skal være tom, når du laver en create-react-app, så du må lige flytte de filer som følger med opgaven ud af mappen.)
+  (BENSPÆND: Mappen skal være tom, når du laver en ny vite app. Du får mulighed for at ignorere de filer som ligger i mappen, men dette VIL overskrive denne readme fil. Du kan med fordel omdøbe den til fx. opgave.md)
 - du kan bruge `npm create vite@latest .` til at oprette en react app i den mappe du allerede står i uden at oprette en ny mappe.
 - Du skal bruge React Router til at navigere mellem siderne i appen.
 - du skal bygge hele løsningen i react.
