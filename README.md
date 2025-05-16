@@ -3,6 +3,7 @@
 # Rockit scooter opgave
 ### **Opgaven indeholder følgende filer:**
 - en figma fil (i assets mappen)
+- svg filer til illustrationer og ikoner (i assets mappen)
 
 ### **Opgavebeskrivelse**
 - Brug Vite til at installere en react applikation.
