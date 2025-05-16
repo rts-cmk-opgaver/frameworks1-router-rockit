@@ -12,10 +12,6 @@
 - du skal bygge hele løsningen i react.
 - husk at lave en branch til dit arbejde
 
-### **Kravspecifikation**
-- hero skal fylde hele bredden på skærmen
-- det øvrige indhold centreres på skærmen i en bredde på 1120px
-
 ### **Mål**
 - Formålet med opgaven er at træne:
   1. At bruge React Router til at lave en applikation med flere sider i. Sørg for at dit fokus ligger primært på dette. Styling er på denne opgave et 'nice-to-have'.
@@ -24,7 +20,9 @@
   4. At opdele din kode i komponenter.
   
 ### **Ekstraopgaver hvis du er hurtigt færdig**
-  1. Lav styling til siderne med CSS (scooteren på settings siden er roteret cirka 10 grader). 
+  1. Lav styling til siderne med CSS (scooteren på settings siden er roteret cirka 10 grader).
+  2. I bredden bør applikatinen passe til alle mobiltelefoner. Tænk over dit valg af layoutmodel(ler).
+  3. Skulle der på de mindste modeller komme lidt vertikal scrolling, er det helt ok! Opgavens fokus er at træne navigation imellem sider.  
 
 ### **Husk!**
 - Commit og push ofte
