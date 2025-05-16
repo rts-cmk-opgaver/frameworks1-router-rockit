@@ -12,6 +12,12 @@
 - du skal bygge hele løsningen i react.
 - husk at lave en branch til dit arbejde
 
+### **Funktionalitet**
+- Fra home-siden kommer man til myscooter-siden ved at klikke på de to chevrons i nederste højre hjørne af siden.
+- Fra myscooter-siden kommer man til settings-siden ved at klikke på de fire prikker i øverste højre hjørne af af siden.
+- Fra settings-siden ledes man tilbage til myscooter siden ved at klikke på krydset i øverste højre hjørne.
+- På settings-siden skal det øverste menupunkt/link (home) være high-lighted
+
 ### **Mål**
 - Formålet med opgaven er at træne:
   1. At bruge React Router til at lave en applikation med flere sider i. Sørg for at dit fokus ligger primært på dette. Styling er på denne opgave et 'nice-to-have'.
